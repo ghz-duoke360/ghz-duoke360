@@ -11,7 +11,7 @@
 
 ## 🌟 精品课程推荐
 
-### 编程语言系列
+### 高端企业级就业及提升训练营
 
 - **[Golang高端企业级就业及提升训练营](https://duoke360.com/post/5703)**：从Golang基础到项目实现
 
@@ -27,11 +27,6 @@
 
   ![Java高端企业级就业及提升训练营程](https://duoke360.com/storage/thumbnails/_signature/3U84SPPFODSOT88371V9NAALRV.png)
 
-### 前沿技术专题
-
-- 🔥 [大模型应用开发实战](https://duoke360.com/llm)：LangChain+Fine-tuning全流程
-- ⚡ [AI工程化部署指南](https://duoke360.com/aiops)：模型服务化与性能优化
-- 🚀 [云计算认证集训营](https://duoke360.com/cloud)：AWS/Aliyun认证攻略
 
 ## 📌 近期更新
 
